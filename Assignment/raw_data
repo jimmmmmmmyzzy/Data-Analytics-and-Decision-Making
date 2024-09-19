@@ -1,0 +1,964 @@
+Date	Purchase (£)	Company_name	Resolution time(mins)	Customer satisfaction score
+14/06/2023	741.10	Universal Songs 	735	55
+23/06/2023	1004.28	Jerry-Sound.com	531	76
+01/06/2023	828.73	Universal Songs 	274	97
+19/06/2023	1043.23	Jerry-Sound.com	414	93
+07/06/2023	908.45	Universal Songs 	545	72
+13/06/2023	904.32	Universal Songs 	717	45
+22/06/2023	596.24	Jerry-Sound.com	508	79
+05/06/2023	835.75	Universal Songs 	505	81
+25/06/2023	917.75	Jerry-Sound.com	601	70
+07/06/2023	796.72	Universal Songs 	549	78
+24/06/2023	901.38	Jerry-Sound.com	556	76
+15/06/2023	796.25	Universal Songs 	862	43
+17/06/2023	975.68	Jerry-Sound.com	333	100
+07/06/2023	822.29	Universal Songs 	555	74
+01/07/2023	716.86	Jerry-Sound.com	950	54
+06/06/2023	702.19	Universal Songs 	527	74
+16/06/2023	837.76	Jerry-Sound.com	244	100
+14/06/2023	1048.19	Universal Songs 	751	53
+20/06/2023	965.97	Jerry-Sound.com	429	90
+04/06/2023	892.24	Universal Songs 	451	84
+17/06/2023	865.96	Jerry-Sound.com	331	96
+10/06/2023	852.53	Universal Songs 	615	62
+21/06/2023	776.80	Jerry-Sound.com	473	87
+14/06/2023	862.18	Universal Songs 	754	46
+21/06/2023	1242.82	Jerry-Sound.com	495	82
+06/06/2023	875.58	Universal Songs 	532	74
+16/06/2023	1008.56	Jerry-Sound.com	241	100
+16/06/2023	918.83	Jerry-Sound.com	208	100
+07/06/2023	939.25	Universal Songs 	542	75
+26/06/2023	914.22	Jerry-Sound.com	621	66
+02/06/2023	722.77	Universal Songs 	394	94
+18/06/2023	994.98	Jerry-Sound.com	374	100
+09/06/2023	1026.85	Universal Songs 	584	78
+28/06/2023	1053.58	Jerry-Sound.com	763	57
+11/06/2023	825.50	Universal Songs 	642	70
+24/06/2023	880.13	Jerry-Sound.com	586	69
+13/06/2023	845.97	Universal Songs 	730	56
+25/06/2023	851.80	Jerry-Sound.com	613	70
+05/06/2023	974.28	Universal Songs 	501	85
+21/06/2023	1066.74	Jerry-Sound.com	461	94
+05/06/2023	810.53	Universal Songs 	486	85
+19/06/2023	914.30	Jerry-Sound.com	400	93
+03/06/2023	1029.97	Universal Songs 	416	89
+29/06/2023	915.35	Jerry-Sound.com	806	56
+06/06/2023	776.99	Universal Songs 	524	72
+24/06/2023	1015.04	Jerry-Sound.com	587	71
+11/06/2023	955.66	Universal Songs 	653	67
+20/06/2023	733.62	Jerry-Sound.com	457	85
+06/06/2023	733.97	Universal Songs 	513	86
+16/06/2023	962.59	Jerry-Sound.com	261	100
+12/06/2023	954.85	Universal Songs 	667	64
+19/06/2023	848.76	Jerry-Sound.com	424	91
+05/06/2023	821.71	Universal Songs 	501	92
+01/07/2023	969.51	Jerry-Sound.com	1083	58
+10/06/2023	729.36	Universal Songs 	615	65
+22/06/2023	952.15	Jerry-Sound.com	526	77
+02/06/2023	739.32	Universal Songs 	378	100
+20/06/2023	809.28	Jerry-Sound.com	449	93
+15/06/2023	904.58	Universal Songs 	868	39
+22/06/2023	842.72	Jerry-Sound.com	514	80
+04/06/2023	948.01	Universal Songs 	452	85
+22/06/2023	1043.99	Jerry-Sound.com	508	79
+06/06/2023	927.12	Universal Songs 	507	89
+27/06/2023	733.32	Jerry-Sound.com	703	64
+11/06/2023	825.89	Universal Songs 	665	62
+20/06/2023	890.51	Jerry-Sound.com	431	89
+14/06/2023	999.53	Universal Songs 	770	53
+11/06/2023	897.87	Universal Songs 	652	59
+18/06/2023	892.53	Jerry-Sound.com	344	99
+09/06/2023	1146.75	Universal Songs 	584	73
+19/06/2023	1012.51	Jerry-Sound.com	402	85
+09/06/2023	856.41	Universal Songs 	584	71
+20/06/2023	941.75	Jerry-Sound.com	435	91
+01/06/2023	769.72	Universal Songs 	267	93
+26/06/2023	731.88	Jerry-Sound.com	622	68
+09/06/2023	584.97	Universal Songs 	581	76
+30/06/2023	959.19	Jerry-Sound.com	859	54
+02/06/2023	778.56	Universal Songs 	389	98
+23/06/2023	751.36	Jerry-Sound.com	547	77
+13/06/2023	762.11	Universal Songs 	728	58
+29/06/2023	989.99	Jerry-Sound.com	839	36
+13/06/2023	1056.32	Universal Songs 	701	53
+24/06/2023	964.41	Jerry-Sound.com	561	78
+09/06/2023	1052.21	Universal Songs 	592	78
+22/06/2023	828.41	Jerry-Sound.com	500	79
+16/06/2023	891.04	Jerry-Sound.com	223	100
+20/06/2023	781.40	Jerry-Sound.com	449	85
+15/06/2023	1245.69	Universal Songs 	879	20
+01/07/2023	897.71	Jerry-Sound.com	906	61
+08/06/2023	717.63	Universal Songs 	577	75
+28/06/2023	1031.86	Jerry-Sound.com	756	37
+05/06/2023	935.22	Universal Songs 	493	89
+28/06/2023	790.13	Jerry-Sound.com	722	64
+11/06/2023	455.11	Universal Songs 	653	65
+17/06/2023	768.74	Jerry-Sound.com	298	100
+16/06/2023	1010.47	Jerry-Sound.com	230	97
+19/06/2023	1093.03	Jerry-Sound.com	403	88
+16/06/2023	592.82	Jerry-Sound.com	239	100
+26/06/2023	902.83	Jerry-Sound.com	645	69
+04/06/2023	970.23	Universal Songs 	463	87
+24/06/2023	686.87	Jerry-Sound.com	587	75
+02/06/2023	765.60	Universal Songs 	378	100
+19/06/2023	754.53	Jerry-Sound.com	409	85
+10/06/2023	944.57	Universal Songs 	610	60
+21/06/2023	952.63	Jerry-Sound.com	482	91
+16/06/2023	929.47	Universal Songs 	1020	45
+24/06/2023	816.80	Jerry-Sound.com	566	81
+12/06/2023	752.86	Universal Songs 	674	70
+17/06/2023	815.95	Jerry-Sound.com	301	100
+04/06/2023	908.37	Universal Songs 	452	82
+20/06/2023	706.84	Jerry-Sound.com	429	90
+15/06/2023	847.21	Universal Songs 	845	49
+27/06/2023	1024.70	Jerry-Sound.com	675	66
+14/06/2023	917.48	Universal Songs 	828	53
+26/06/2023	911.79	Jerry-Sound.com	619	66
+13/06/2023	1035.90	Universal Songs 	721	54
+25/06/2023	1058.19	Jerry-Sound.com	607	70
+16/06/2023	964.74	Jerry-Sound.com	233	100
+23/06/2023	879.98	Jerry-Sound.com	554	80
+02/06/2023	816.98	Universal Songs 	352	100
+25/06/2023	1036.96	Jerry-Sound.com	605	70
+14/06/2023	754.57	Universal Songs 	796	55
+21/06/2023	1000.51	Jerry-Sound.com	479	85
+09/06/2023	921.70	Universal Songs 	595	62
+18/06/2023	1044.84	Jerry-Sound.com	376	91
+14/06/2023	755.15	Universal Songs 	781	36
+19/06/2023	888.55	Jerry-Sound.com	398	89
+14/06/2023	1044.37	Universal Songs 	783	56
+30/06/2023	1002.37	Jerry-Sound.com	860	41
+16/06/2023	758.52	Jerry-Sound.com	205	100
+29/06/2023	850.31	Jerry-Sound.com	815	56
+14/06/2023	1026.71	Universal Songs 	795	46
+18/06/2023	651.12	Jerry-Sound.com	393	85
+15/06/2023	1179.61	Universal Songs 	930	57
+27/06/2023	1042.22	Jerry-Sound.com	678	71
+01/06/2023	889.94	Universal Songs 	336	100
+21/06/2023	848.87	Jerry-Sound.com	484	90
+11/06/2023	734.99	Universal Songs 	636	63
+24/06/2023	854.49	Jerry-Sound.com	575	72
+10/06/2023	919.07	Universal Songs 	619	61
+22/06/2023	899.47	Jerry-Sound.com	514	83
+07/06/2023	911.95	Universal Songs 	540	72
+20/06/2023	1046.65	Jerry-Sound.com	457	87
+03/06/2023	854.60	Universal Songs 	433	92
+23/06/2023	965.11	Jerry-Sound.com	537	77
+09/06/2023	1017.53	Universal Songs 	585	76
+25/06/2023	1144.56	Jerry-Sound.com	614	66
+02/06/2023	885.29	Universal Songs 	390	100
+03/06/2023	789.88	Universal Songs 	429	91
+28/06/2023	894.54	Jerry-Sound.com	779	49
+10/06/2023	1158.89	Universal Songs 	635	69
+25/06/2023	951.97	Jerry-Sound.com	592	68
+14/06/2023	773.07	Universal Songs 	768	55
+08/06/2023	1025.66	Universal Songs 	563	73
+18/06/2023	847.88	Jerry-Sound.com	359	100
+07/06/2023	699.63	Universal Songs 	541	79
+02/06/2023	969.77	Universal Songs 	374	100
+28/06/2023	1009.56	Jerry-Sound.com	755	64
+14/06/2023	937.07	Universal Songs 	753	52
+22/06/2023	661.98	Jerry-Sound.com	500	83
+14/06/2023	830.75	Universal Songs 	738	44
+17/06/2023	1025.42	Jerry-Sound.com	301	100
+07/06/2023	782.51	Universal Songs 	543	79
+17/06/2023	1012.04	Jerry-Sound.com	269	100
+05/06/2023	702.61	Universal Songs 	493	91
+18/06/2023	881.45	Jerry-Sound.com	392	91
+15/06/2023	854.60	Universal Songs 	952	55
+26/06/2023	1151.53	Jerry-Sound.com	625	67
+05/06/2023	795.50	Universal Songs 	489	89
+24/06/2023	1062.40	Jerry-Sound.com	581	71
+05/06/2023	1035.09	Universal Songs 	499	82
+26/06/2023	920.26	Jerry-Sound.com	623	73
+12/06/2023	894.14	Universal Songs 	668	62
+17/06/2023	1079.38	Jerry-Sound.com	316	99
+15/06/2023	882.50	Universal Songs 	940	43
+26/06/2023	881.11	Jerry-Sound.com	625	70
+09/06/2023	797.89	Universal Songs 	579	76
+26/06/2023	861.16	Jerry-Sound.com	621	74
+10/06/2023	1205.79	Universal Songs 	612	67
+21/06/2023	876.46	Jerry-Sound.com	461	91
+08/06/2023	856.40	Universal Songs 	556	72
+20/06/2023	984.30	Jerry-Sound.com	429	85
+09/06/2023	892.55	Universal Songs 	591	75
+29/06/2023	861.35	Jerry-Sound.com	794	54
+13/06/2023	1108.37	Universal Songs 	716	54
+22/06/2023	1131.79	Jerry-Sound.com	503	78
+04/06/2023	870.67	Universal Songs 	448	81
+24/06/2023	945.91	Jerry-Sound.com	559	82
+10/06/2023	890.30	Universal Songs 	622	66
+26/06/2023	850.94	Jerry-Sound.com	653	67
+05/06/2023	749.42	Universal Songs 	477	86
+20/06/2023	668.08	Jerry-Sound.com	460	92
+14/06/2023	949.50	Universal Songs 	796	54
+17/06/2023	830.75	Jerry-Sound.com	327	100
+01/06/2023	969.38	Universal Songs 	256	93
+21/06/2023	874.55	Jerry-Sound.com	474	93
+14/06/2023	977.20	Universal Songs 	747	56
+22/06/2023	882.41	Jerry-Sound.com	498	75
+06/06/2023	921.08	Universal Songs 	527	72
+18/06/2023	926.99	Jerry-Sound.com	381	90
+10/06/2023	621.09	Universal Songs 	633	67
+23/06/2023	986.77	Jerry-Sound.com	538	84
+10/06/2023	686.31	Universal Songs 	607	59
+21/06/2023	967.47	Jerry-Sound.com	489	81
+13/06/2023	987.34	Universal Songs 	730	29
+21/06/2023	1087.04	Jerry-Sound.com	494	78
+10/06/2023	1116.04	Universal Songs 	613	62
+24/06/2023	941.95	Jerry-Sound.com	579	70
+02/06/2023	911.84	Universal Songs 	381	94
+26/06/2023	880.02	Jerry-Sound.com	636	67
+07/06/2023	902.46	Universal Songs 	535	74
+27/06/2023	899.78	Jerry-Sound.com	704	56
+10/06/2023	809.16	Universal Songs 	610	69
+25/06/2023	1159.94	Jerry-Sound.com	595	71
+03/06/2023	803.07	Universal Songs 	433	85
+20/06/2023	990.33	Jerry-Sound.com	441	92
+10/06/2023	889.15	Universal Songs 	635	66
+28/06/2023	869.36	Jerry-Sound.com	781	61
+04/06/2023	994.88	Universal Songs 	455	82
+28/06/2023	1092.61	Jerry-Sound.com	723	53
+02/06/2023	754.51	Universal Songs 	382	100
+20/06/2023	1008.18	Jerry-Sound.com	457	90
+13/06/2023	1119.50	Universal Songs 	717	50
+28/06/2023	930.16	Jerry-Sound.com	789	62
+06/06/2023	860.21	Universal Songs 	534	75
+25/06/2023	722.37	Jerry-Sound.com	591	68
+03/06/2023	749.55	Universal Songs 	422	83
+28/06/2023	806.69	Jerry-Sound.com	786	59
+04/06/2023	934.98	Universal Songs 	456	85
+25/06/2023	1049.88	Jerry-Sound.com	596	65
+14/06/2023	839.70	Universal Songs 	772	51
+29/06/2023	848.91	Jerry-Sound.com	837	49
+11/06/2023	882.74	Universal Songs 	648	65
+05/06/2023	784.16	Universal Songs 	493	84
+08/06/2023	917.43	Universal Songs 	569	74
+17/06/2023	974.09	Jerry-Sound.com	330	96
+03/06/2023	880.13	Universal Songs 	397	100
+20/06/2023	812.64	Jerry-Sound.com	431	94
+07/06/2023	1066.72	Universal Songs 	536	71
+28/06/2023	1014.79	Jerry-Sound.com	776	30
+07/06/2023	1031.71	Universal Songs 	538	74
+19/06/2023	777.12	Jerry-Sound.com	398	89
+04/06/2023	1073.70	Universal Songs 	463	90
+27/06/2023	802.71	Jerry-Sound.com	671	70
+05/06/2023	912.18	Universal Songs 	492	86
+29/06/2023	874.20	Jerry-Sound.com	822	48
+12/06/2023	869.66	Universal Songs 	697	58
+26/06/2023	1095.55	Jerry-Sound.com	625	69
+06/06/2023	864.27	Universal Songs 	533	78
+23/06/2023	713.90	Jerry-Sound.com	551	81
+01/06/2023	1055.11	Universal Songs 	300	100
+22/06/2023	1060.69	Jerry-Sound.com	505	79
+11/06/2023	977.30	Universal Songs 	654	65
+23/06/2023	1054.98	Jerry-Sound.com	538	80
+12/06/2023	782.25	Universal Songs 	676	69
+17/06/2023	906.31	Jerry-Sound.com	306	100
+02/06/2023	972.49	Universal Songs 	392	97
+21/06/2023	1023.91	Jerry-Sound.com	492	77
+01/06/2023	951.84	Universal Songs 	283	96
+19/06/2023	880.44	Jerry-Sound.com	399	84
+03/06/2023	876.36	Universal Songs 	408	97
+30/06/2023	773.36	Jerry-Sound.com	891	40
+10/06/2023	736.96	Universal Songs 	627	69
+18/06/2023	1096.84	Jerry-Sound.com	353	100
+01/06/2023	971.76	Universal Songs 	259	100
+23/06/2023	933.00	Jerry-Sound.com	545	76
+06/06/2023	757.51	Universal Songs 	522	73
+06/06/2023	999.09	Universal Songs 	532	71
+17/06/2023	826.77	Jerry-Sound.com	303	100
+07/06/2023	1134.12	Universal Songs 	545	79
+01/07/2023	917.56	Jerry-Sound.com	943	47
+08/06/2023	1148.30	Universal Songs 	564	72
+28/06/2023	1004.92	Jerry-Sound.com	726	62
+01/06/2023	1052.77	Universal Songs 	296	100
+25/06/2023	914.84	Jerry-Sound.com	600	72
+09/06/2023	933.75	Universal Songs 	579	74
+23/06/2023	894.11	Jerry-Sound.com	550	80
+11/06/2023	769.56	Universal Songs 	656	60
+15/06/2023	944.93	Universal Songs 	831	56
+22/06/2023	796.75	Jerry-Sound.com	524	79
+15/06/2023	705.10	Universal Songs 	869	56
+17/06/2023	825.99	Jerry-Sound.com	319	100
+10/06/2023	664.59	Universal Songs 	629	63
+28/06/2023	1200.20	Jerry-Sound.com	723	60
+14/06/2023	895.32	Universal Songs 	778	48
+29/06/2023	838.03	Jerry-Sound.com	811	37
+05/06/2023	708.30	Universal Songs 	493	82
+18/06/2023	1039.94	Jerry-Sound.com	356	100
+13/06/2023	1052.03	Universal Songs 	718	56
+26/06/2023	945.40	Jerry-Sound.com	640	68
+08/06/2023	672.59	Universal Songs 	565	71
+29/06/2023	1081.38	Jerry-Sound.com	838	37
+09/06/2023	731.75	Universal Songs 	590	78
+25/06/2023	1039.76	Jerry-Sound.com	599	71
+04/06/2023	840.32	Universal Songs 	465	91
+18/06/2023	908.73	Jerry-Sound.com	369	100
+08/06/2023	910.99	Universal Songs 	561	75
+22/06/2023	659.67	Jerry-Sound.com	510	78
+10/06/2023	705.44	Universal Songs 	621	67
+28/06/2023	1024.37	Jerry-Sound.com	777	47
+02/06/2023	1202.63	Universal Songs 	348	94
+22/06/2023	990.14	Jerry-Sound.com	512	79
+04/06/2023	1200.35	Universal Songs 	456	86
+21/06/2023	1043.06	Jerry-Sound.com	492	84
+07/06/2023	770.64	Universal Songs 	539	71
+01/07/2023	998.04	Jerry-Sound.com	997	33
+07/06/2023	925.16	Universal Songs 	553	73
+17/06/2023	556.69	Jerry-Sound.com	318	99
+08/06/2023	934.07	Universal Songs 	575	75
+24/06/2023	830.40	Jerry-Sound.com	577	66
+13/06/2023	770.39	Universal Songs 	730	56
+29/06/2023	830.76	Jerry-Sound.com	838	51
+08/06/2023	787.97	Universal Songs 	577	72
+04/06/2023	735.12	Universal Songs 	472	87
+08/06/2023	829.71	Universal Songs 	561	78
+27/06/2023	824.97	Jerry-Sound.com	699	62
+04/06/2023	842.14	Universal Songs 	466	91
+17/06/2023	1023.50	Jerry-Sound.com	275	96
+02/06/2023	1016.17	Universal Songs 	380	100
+29/06/2023	868.96	Jerry-Sound.com	789	53
+04/06/2023	899.14	Universal Songs 	447	82
+24/06/2023	1024.45	Jerry-Sound.com	590	73
+11/06/2023	742.15	Universal Songs 	646	67
+27/06/2023	1033.26	Jerry-Sound.com	681	69
+05/06/2023	762.48	Universal Songs 	505	90
+28/06/2023	763.93	Jerry-Sound.com	754	48
+06/06/2023	924.81	Universal Songs 	525	79
+27/06/2023	769.15	Jerry-Sound.com	704	62
+01/06/2023	998.05	Universal Songs 	335	97
+28/06/2023	784.03	Jerry-Sound.com	726	58
+06/06/2023	789.13	Universal Songs 	507	85
+03/06/2023	861.56	Universal Songs 	398	100
+28/06/2023	1024.84	Jerry-Sound.com	732	61
+02/06/2023	767.59	Universal Songs 	365	100
+18/06/2023	828.42	Jerry-Sound.com	394	94
+05/06/2023	1141.97	Universal Songs 	481	83
+01/07/2023	721.28	Jerry-Sound.com	927	65
+09/06/2023	787.05	Universal Songs 	595	60
+25/06/2023	827.73	Jerry-Sound.com	600	69
+08/06/2023	780.40	Universal Songs 	556	74
+24/06/2023	856.46	Jerry-Sound.com	565	83
+01/06/2023	775.54	Universal Songs 	312	94
+29/06/2023	948.34	Jerry-Sound.com	822	50
+08/06/2023	748.64	Universal Songs 	565	76
+24/06/2023	1067.11	Jerry-Sound.com	587	70
+03/06/2023	1031.46	Universal Songs 	426	81
+30/06/2023	719.02	Jerry-Sound.com	868	40
+02/06/2023	869.54	Universal Songs 	364	95
+26/06/2023	785.98	Jerry-Sound.com	638	65
+15/06/2023	960.69	Universal Songs 	881	57
+27/06/2023	954.36	Jerry-Sound.com	786	56
+06/06/2023	786.04	Universal Songs 	514	89
+24/06/2023	856.70	Jerry-Sound.com	570	82
+04/06/2023	827.34	Universal Songs 	458	86
+28/06/2023	648.52	Jerry-Sound.com	780	58
+14/06/2023	996.69	Universal Songs 	767	56
+19/06/2023	1061.59	Jerry-Sound.com	418	85
+13/06/2023	800.59	Universal Songs 	706	44
+29/06/2023	668.95	Jerry-Sound.com	790	39
+06/06/2023	956.08	Universal Songs 	511	91
+28/06/2023	1057.32	Jerry-Sound.com	781	54
+06/06/2023	875.73	Universal Songs 	513	81
+01/07/2023	866.05	Jerry-Sound.com	902	63
+05/06/2023	1056.79	Universal Songs 	494	80
+22/06/2023	815.70	Jerry-Sound.com	521	81
+09/06/2023	820.54	Universal Songs 	582	79
+21/06/2023	776.38	Jerry-Sound.com	478	88
+06/06/2023	787.12	Universal Songs 	515	75
+18/06/2023	965.71	Jerry-Sound.com	352	100
+13/06/2023	745.17	Universal Songs 	717	44
+16/06/2023	980.39	Jerry-Sound.com	247	100
+10/06/2023	865.89	Universal Songs 	610	61
+17/06/2023	936.92	Jerry-Sound.com	330	100
+14/06/2023	815.42	Universal Songs 	778	56
+17/06/2023	858.13	Jerry-Sound.com	319	100
+10/06/2023	879.02	Universal Songs 	598	68
+21/06/2023	1028.05	Jerry-Sound.com	465	85
+04/06/2023	948.51	Universal Songs 	473	81
+16/06/2023	948.38	Jerry-Sound.com	257	100
+10/06/2023	1007.17	Universal Songs 	604	61
+27/06/2023	840.09	Jerry-Sound.com	678	73
+04/06/2023	1005.01	Universal Songs 	447	86
+14/06/2023	920.08	Universal Songs 	784	53
+27/06/2023	898.93	Jerry-Sound.com	662	69
+04/06/2023	1031.56	Universal Songs 	442	83
+27/06/2023	910.10	Jerry-Sound.com	674	68
+14/06/2023	734.43	Universal Songs 	784	57
+19/06/2023	933.30	Jerry-Sound.com	410	86
+01/06/2023	1143.61	Universal Songs 	303	100
+18/06/2023	886.53	Jerry-Sound.com	397	93
+09/06/2023	907.96	Universal Songs 	579	78
+21/06/2023	1068.20	Jerry-Sound.com	496	76
+08/06/2023	708.45	Universal Songs 	562	71
+27/06/2023	952.16	Jerry-Sound.com	664	73
+04/06/2023	868.50	Universal Songs 	464	82
+22/06/2023	938.53	Jerry-Sound.com	501	75
+10/06/2023	953.52	Universal Songs 	619	61
+22/06/2023	975.21	Jerry-Sound.com	524	83
+01/06/2023	937.03	Universal Songs 	314	100
+28/06/2023	860.07	Jerry-Sound.com	777	46
+04/06/2023	1103.90	Universal Songs 	453	87
+26/06/2023	1037.40	Jerry-Sound.com	620	72
+07/06/2023	781.20	Universal Songs 	541	79
+01/07/2023	798.66	Jerry-Sound.com	945	40
+03/06/2023	775.66	Universal Songs 	405	95
+29/06/2023	992.31	Jerry-Sound.com	835	59
+05/06/2023	880.90	Universal Songs 	481	91
+23/06/2023	1031.05	Jerry-Sound.com	547	78
+16/06/2023	863.20	Jerry-Sound.com	233	100
+25/06/2023	920.69	Jerry-Sound.com	594	66
+06/06/2023	893.84	Universal Songs 	505	81
+20/06/2023	1234.38	Jerry-Sound.com	439	92
+05/06/2023	853.96	Universal Songs 	492	91
+19/06/2023	1244.00	Jerry-Sound.com	425	88
+13/06/2023	746.78	Universal Songs 	709	37
+21/06/2023	977.79	Jerry-Sound.com	492	80
+08/06/2023	880.39	Universal Songs 	570	71
+18/06/2023	748.09	Jerry-Sound.com	340	100
+04/06/2023	948.43	Universal Songs 	470	88
+21/06/2023	765.81	Jerry-Sound.com	468	91
+04/06/2023	929.22	Universal Songs 	472	82
+20/06/2023	951.81	Jerry-Sound.com	453	86
+11/06/2023	872.00	Universal Songs 	636	66
+27/06/2023	859.95	Jerry-Sound.com	690	62
+12/06/2023	948.46	Universal Songs 	694	68
+29/06/2023	717.17	Jerry-Sound.com	792	61
+13/06/2023	753.49	Universal Songs 	723	56
+26/06/2023	795.97	Jerry-Sound.com	656	71
+09/06/2023	711.66	Universal Songs 	584	78
+29/06/2023	1010.33	Jerry-Sound.com	794	56
+06/06/2023	874.96	Universal Songs 	527	80
+28/06/2023	837.69	Jerry-Sound.com	780	55
+12/06/2023	1036.12	Universal Songs 	665	69
+17/06/2023	970.22	Jerry-Sound.com	334	97
+14/06/2023	871.86	Universal Songs 	806	48
+18/06/2023	968.98	Jerry-Sound.com	375	97
+16/06/2023	923.74	Universal Songs 	1014	49
+18/06/2023	892.31	Jerry-Sound.com	339	100
+05/06/2023	1063.34	Universal Songs 	497	84
+27/06/2023	1113.32	Jerry-Sound.com	718	61
+09/06/2023	713.65	Universal Songs 	593	70
+14/06/2023	1019.89	Universal Songs 	748	43
+22/06/2023	784.57	Jerry-Sound.com	507	84
+10/06/2023	721.46	Universal Songs 	616	59
+23/06/2023	953.18	Jerry-Sound.com	535	77
+06/06/2023	911.68	Universal Songs 	513	85
+22/06/2023	882.55	Jerry-Sound.com	508	77
+03/06/2023	1024.35	Universal Songs 	416	83
+19/06/2023	773.10	Jerry-Sound.com	401	86
+06/06/2023	1054.63	Universal Songs 	514	83
+13/06/2023	949.25	Universal Songs 	711	48
+27/06/2023	852.69	Jerry-Sound.com	699	53
+07/06/2023	856.23	Universal Songs 	541	78
+19/06/2023	716.32	Jerry-Sound.com	422	90
+05/06/2023	958.08	Universal Songs 	502	80
+17/06/2023	1023.40	Jerry-Sound.com	334	100
+07/06/2023	916.91	Universal Songs 	535	74
+27/06/2023	914.78	Jerry-Sound.com	700	61
+06/06/2023	642.13	Universal Songs 	529	77
+21/06/2023	734.54	Jerry-Sound.com	465	94
+10/06/2023	495.67	Universal Songs 	624	70
+23/06/2023	848.93	Jerry-Sound.com	526	79
+10/06/2023	861.17	Universal Songs 	634	58
+19/06/2023	857.19	Jerry-Sound.com	421	91
+12/06/2023	897.83	Universal Songs 	676	59
+26/06/2023	794.89	Jerry-Sound.com	647	74
+16/06/2023	998.35	Jerry-Sound.com	249	97
+20/06/2023	792.50	Jerry-Sound.com	435	87
+01/06/2023	793.78	Universal Songs 	276	100
+17/06/2023	914.74	Jerry-Sound.com	314	100
+09/06/2023	1001.78	Universal Songs 	594	69
+19/06/2023	1017.92	Jerry-Sound.com	417	91
+06/06/2023	905.61	Universal Songs 	525	79
+22/06/2023	1083.52	Jerry-Sound.com	501	78
+09/06/2023	885.93	Universal Songs 	580	75
+18/06/2023	841.91	Jerry-Sound.com	348	100
+13/06/2023	892.89	Universal Songs 	705	37
+16/06/2023	917.73	Jerry-Sound.com	240	96
+14/06/2023	755.04	Universal Songs 	808	25
+18/06/2023	841.12	Jerry-Sound.com	386	93
+13/06/2023	995.21	Universal Songs 	723	57
+19/06/2023	1032.32	Jerry-Sound.com	428	85
+08/06/2023	787.14	Universal Songs 	571	73
+30/06/2023	908.75	Jerry-Sound.com	854	62
+09/06/2023	919.89	Universal Songs 	588	79
+19/06/2023	923.57	Jerry-Sound.com	413	89
+16/06/2023	852.06	Universal Songs 	1036	58
+23/06/2023	807.33	Jerry-Sound.com	555	79
+06/06/2023	861.23	Universal Songs 	529	75
+19/06/2023	964.48	Jerry-Sound.com	398	90
+14/06/2023	1166.71	Universal Songs 	787	53
+27/06/2023	937.77	Jerry-Sound.com	666	71
+08/06/2023	987.09	Universal Songs 	574	79
+23/06/2023	887.19	Jerry-Sound.com	551	76
+09/06/2023	993.44	Universal Songs 	586	73
+26/06/2023	799.71	Jerry-Sound.com	638	69
+09/06/2023	862.53	Universal Songs 	592	70
+17/06/2023	747.17	Jerry-Sound.com	268	100
+01/06/2023	812.71	Universal Songs 	305	100
+24/06/2023	656.36	Jerry-Sound.com	574	83
+15/06/2023	812.14	Universal Songs 	892	43
+17/06/2023	957.88	Jerry-Sound.com	279	100
+14/06/2023	897.96	Universal Songs 	737	34
+20/06/2023	847.65	Jerry-Sound.com	444	86
+12/06/2023	854.90	Universal Songs 	684	64
+21/06/2023	963.53	Jerry-Sound.com	492	80
+15/06/2023	1071.07	Universal Songs 	927	50
+19/06/2023	977.55	Jerry-Sound.com	423	91
+11/06/2023	899.74	Universal Songs 	650	67
+29/06/2023	931.25	Jerry-Sound.com	828	64
+07/06/2023	761.42	Universal Songs 	535	74
+20/06/2023	1011.81	Jerry-Sound.com	437	88
+01/06/2023	749.14	Universal Songs 	293	100
+30/06/2023	941.92	Jerry-Sound.com	891	57
+07/06/2023	877.28	Universal Songs 	544	78
+29/06/2023	886.84	Jerry-Sound.com	836	50
+15/06/2023	894.86	Universal Songs 	829	57
+18/06/2023	1075.04	Jerry-Sound.com	361	97
+11/06/2023	615.86	Universal Songs 	648	65
+22/06/2023	1204.90	Jerry-Sound.com	496	78
+08/06/2023	631.70	Universal Songs 	566	80
+23/06/2023	880.21	Jerry-Sound.com	552	80
+02/06/2023	930.93	Universal Songs 	388	100
+27/06/2023	967.03	Jerry-Sound.com	702	46
+02/06/2023	987.96	Universal Songs 	372	100
+27/06/2023	909.79	Jerry-Sound.com	682	61
+15/06/2023	1048.16	Universal Songs 	834	45
+25/06/2023	923.39	Jerry-Sound.com	616	70
+10/06/2023	871.53	Universal Songs 	598	66
+10/06/2023	1118.35	Universal Songs 	634	65
+25/06/2023	837.45	Jerry-Sound.com	595	70
+12/06/2023	1027.72	Universal Songs 	677	60
+17/06/2023	928.08	Jerry-Sound.com	332	100
+02/06/2023	973.51	Universal Songs 	388	100
+20/06/2023	1195.41	Jerry-Sound.com	441	84
+10/06/2023	1102.16	Universal Songs 	606	66
+18/06/2023	730.06	Jerry-Sound.com	346	97
+08/06/2023	782.42	Universal Songs 	573	75
+27/06/2023	883.35	Jerry-Sound.com	719	52
+01/06/2023	927.96	Universal Songs 	336	100
+29/06/2023	853.60	Jerry-Sound.com	825	53
+03/06/2023	1026.64	Universal Songs 	430	86
+19/06/2023	963.96	Jerry-Sound.com	423	87
+02/06/2023	1032.02	Universal Songs 	353	93
+23/06/2023	894.29	Jerry-Sound.com	543	81
+06/06/2023	1053.78	Universal Songs 	512	85
+22/06/2023	715.64	Jerry-Sound.com	515	76
+16/06/2023	883.57	Jerry-Sound.com	247	100
+20/06/2023	768.81	Jerry-Sound.com	458	91
+16/06/2023	1133.36	Jerry-Sound.com	238	95
+12/06/2023	777.42	Universal Songs 	691	62
+19/06/2023	944.29	Jerry-Sound.com	425	87
+05/06/2023	760.11	Universal Songs 	500	87
+25/06/2023	879.02	Jerry-Sound.com	599	73
+06/06/2023	947.14	Universal Songs 	526	73
+22/06/2023	1020.79	Jerry-Sound.com	507	75
+11/06/2023	997.62	Universal Songs 	644	68
+29/06/2023	847.85	Jerry-Sound.com	809	62
+04/06/2023	1072.99	Universal Songs 	465	90
+27/06/2023	898.04	Jerry-Sound.com	689	41
+06/06/2023	624.75	Universal Songs 	526	76
+18/06/2023	1065.40	Jerry-Sound.com	342	100
+15/06/2023	976.25	Universal Songs 	914	51
+17/06/2023	877.15	Jerry-Sound.com	263	100
+13/06/2023	1164.00	Universal Songs 	717	50
+27/06/2023	867.88	Jerry-Sound.com	663	66
+16/06/2023	814.49	Jerry-Sound.com	220	97
+19/06/2023	873.44	Jerry-Sound.com	427	90
+06/06/2023	643.60	Universal Songs 	534	79
+17/06/2023	786.33	Jerry-Sound.com	310	100
+01/06/2023	1032.28	Universal Songs 	312	97
+19/06/2023	1175.93	Jerry-Sound.com	426	94
+14/06/2023	776.83	Universal Songs 	782	20
+30/06/2023	663.59	Jerry-Sound.com	850	60
+02/06/2023	914.80	Universal Songs 	359	100
+23/06/2023	1031.89	Jerry-Sound.com	544	82
+13/06/2023	845.71	Universal Songs 	703	56
+21/06/2023	720.81	Jerry-Sound.com	484	86
+10/06/2023	1023.58	Universal Songs 	606	64
+28/06/2023	900.77	Jerry-Sound.com	726	53
+14/06/2023	765.55	Universal Songs 	795	51
+26/06/2023	865.13	Jerry-Sound.com	644	67
+08/06/2023	960.72	Universal Songs 	574	77
+17/06/2023	904.54	Jerry-Sound.com	265	100
+03/06/2023	893.42	Universal Songs 	399	93
+16/06/2023	718.18	Jerry-Sound.com	246	100
+14/06/2023	1170.18	Universal Songs 	739	43
+27/06/2023	880.07	Jerry-Sound.com	672	74
+10/06/2023	923.74	Universal Songs 	607	62
+25/06/2023	858.22	Jerry-Sound.com	602	74
+03/06/2023	1003.08	Universal Songs 	417	80
+23/06/2023	1163.10	Jerry-Sound.com	550	75
+13/06/2023	862.71	Universal Songs 	717	32
+25/06/2023	667.76	Jerry-Sound.com	603	70
+08/06/2023	891.59	Universal Songs 	568	73
+17/06/2023	797.56	Jerry-Sound.com	334	100
+07/06/2023	978.27	Universal Songs 	548	76
+23/06/2023	1005.21	Jerry-Sound.com	554	80
+01/06/2023	941.71	Universal Songs 	291	100
+18/06/2023	974.42	Jerry-Sound.com	357	100
+12/06/2023	734.98	Universal Songs 	681	65
+29/06/2023	680.61	Jerry-Sound.com	810	47
+07/06/2023	756.67	Universal Songs 	537	77
+29/06/2023	760.81	Jerry-Sound.com	844	57
+07/06/2023	868.74	Universal Songs 	549	75
+20/06/2023	1082.18	Jerry-Sound.com	446	86
+05/06/2023	954.58	Universal Songs 	481	91
+25/06/2023	842.36	Jerry-Sound.com	594	70
+08/06/2023	700.07	Universal Songs 	562	76
+24/06/2023	826.84	Jerry-Sound.com	556	79
+15/06/2023	872.64	Universal Songs 	848	57
+28/06/2023	968.28	Jerry-Sound.com	782	49
+13/06/2023	969.77	Universal Songs 	698	45
+20/06/2023	576.99	Jerry-Sound.com	436	86
+04/06/2023	925.57	Universal Songs 	447	84
+23/06/2023	870.20	Jerry-Sound.com	535	79
+16/06/2023	837.44	Jerry-Sound.com	256	100
+27/06/2023	425.97	Jerry-Sound.com	681	71
+11/06/2023	916.97	Universal Songs 	665	70
+27/06/2023	884.48	Jerry-Sound.com	715	62
+12/06/2023	916.91	Universal Songs 	688	66
+01/07/2023	900.82	Jerry-Sound.com	935	48
+06/06/2023	695.73	Universal Songs 	512	90
+02/06/2023	987.44	Universal Songs 	394	100
+28/06/2023	761.79	Jerry-Sound.com	750	64
+03/06/2023	949.65	Universal Songs 	436	86
+29/06/2023	794.58	Jerry-Sound.com	794	60
+07/06/2023	905.77	Universal Songs 	545	75
+20/06/2023	801.11	Jerry-Sound.com	433	85
+14/06/2023	845.91	Universal Songs 	756	52
+18/06/2023	887.68	Jerry-Sound.com	351	95
+08/06/2023	925.26	Universal Songs 	570	71
+28/06/2023	1104.21	Jerry-Sound.com	739	50
+05/06/2023	1055.37	Universal Songs 	476	82
+23/06/2023	873.93	Jerry-Sound.com	536	79
+03/06/2023	694.83	Universal Songs 	413	85
+19/06/2023	984.94	Jerry-Sound.com	399	85
+12/06/2023	751.19	Universal Songs 	696	62
+21/06/2023	1012.13	Jerry-Sound.com	470	85
+03/06/2023	1144.74	Universal Songs 	432	87
+28/06/2023	931.09	Jerry-Sound.com	731	57
+06/06/2023	804.21	Universal Songs 	512	89
+18/06/2023	717.86	Jerry-Sound.com	386	88
+03/06/2023	956.98	Universal Songs 	425	82
+22/06/2023	777.25	Jerry-Sound.com	496	77
+11/06/2023	920.87	Universal Songs 	643	67
+10/06/2023	1060.67	Universal Songs 	624	60
+27/06/2023	1003.12	Jerry-Sound.com	659	74
+02/06/2023	992.12	Universal Songs 	359	100
+21/06/2023	952.94	Jerry-Sound.com	495	76
+02/06/2023	818.19	Universal Songs 	381	94
+22/06/2023	733.19	Jerry-Sound.com	499	78
+13/06/2023	1097.60	Universal Songs 	721	55
+25/06/2023	882.24	Jerry-Sound.com	600	67
+08/06/2023	746.70	Universal Songs 	573	72
+28/06/2023	771.82	Jerry-Sound.com	751	56
+03/06/2023	889.03	Universal Songs 	402	95
+17/06/2023	1012.92	Jerry-Sound.com	332	100
+11/06/2023	927.49	Universal Songs 	652	69
+26/06/2023	964.82	Jerry-Sound.com	640	75
+15/06/2023	730.13	Universal Songs 	969	53
+19/06/2023	787.86	Jerry-Sound.com	399	87
+06/06/2023	760.21	Universal Songs 	523	72
+21/06/2023	863.84	Jerry-Sound.com	487	80
+08/06/2023	939.10	Universal Songs 	578	72
+14/06/2023	933.01	Universal Songs 	745	54
+25/06/2023	1079.20	Jerry-Sound.com	590	69
+11/06/2023	1089.64	Universal Songs 	663	60
+28/06/2023	1087.59	Jerry-Sound.com	734	57
+13/06/2023	947.68	Universal Songs 	731	48
+24/06/2023	800.43	Jerry-Sound.com	563	79
+15/06/2023	814.31	Universal Songs 	845	58
+25/06/2023	1134.45	Jerry-Sound.com	612	73
+11/06/2023	734.16	Universal Songs 	664	64
+10/06/2023	735.26	Universal Songs 	624	64
+01/07/2023	1172.82	Jerry-Sound.com	905	65
+02/06/2023	905.98	Universal Songs 	349	99
+21/06/2023	930.68	Jerry-Sound.com	472	90
+09/06/2023	926.32	Universal Songs 	580	75
+18/06/2023	812.94	Jerry-Sound.com	370	100
+11/06/2023	796.34	Universal Songs 	659	67
+01/07/2023	1089.55	Jerry-Sound.com	928	58
+04/06/2023	655.73	Universal Songs 	459	91
+20/06/2023	906.19	Jerry-Sound.com	458	90
+09/06/2023	987.90	Universal Songs 	588	75
+25/06/2023	1013.57	Jerry-Sound.com	610	70
+10/06/2023	933.28	Universal Songs 	625	65
+24/06/2023	787.46	Jerry-Sound.com	574	79
+03/06/2023	783.25	Universal Songs 	406	100
+16/06/2023	779.86	Jerry-Sound.com	241	100
+01/06/2023	1029.82	Universal Songs 	298	95
+21/06/2023	1026.52	Jerry-Sound.com	489	81
+05/06/2023	1063.03	Universal Songs 	485	80
+22/06/2023	875.48	Jerry-Sound.com	519	83
+04/06/2023	878.39	Universal Songs 	470	88
+24/06/2023	946.82	Jerry-Sound.com	559	81
+01/06/2023	730.18	Universal Songs 	306	97
+23/06/2023	1022.61	Jerry-Sound.com	551	81
+14/06/2023	707.59	Universal Songs 	746	48
+25/06/2023	885.94	Jerry-Sound.com	616	66
+01/06/2023	914.20	Universal Songs 	306	96
+21/06/2023	707.99	Jerry-Sound.com	491	84
+04/06/2023	762.25	Universal Songs 	436	89
+27/06/2023	927.31	Jerry-Sound.com	684	60
+07/06/2023	906.86	Universal Songs 	553	72
+27/06/2023	1075.10	Jerry-Sound.com	704	64
+06/06/2023	941.40	Universal Songs 	531	78
+18/06/2023	733.72	Jerry-Sound.com	396	93
+03/06/2023	969.33	Universal Songs 	426	87
+27/06/2023	875.79	Jerry-Sound.com	667	75
+05/06/2023	856.25	Universal Songs 	485	90
+25/06/2023	1221.84	Jerry-Sound.com	605	69
+16/06/2023	1039.59	Jerry-Sound.com	239	100
+18/06/2023	935.07	Jerry-Sound.com	357	95
+06/06/2023	956.44	Universal Songs 	523	74
+27/06/2023	825.03	Jerry-Sound.com	707	58
+06/06/2023	853.22	Universal Songs 	532	78
+17/06/2023	698.10	Jerry-Sound.com	264	100
+06/06/2023	981.82	Universal Songs 	506	87
+24/06/2023	857.91	Jerry-Sound.com	582	65
+14/06/2023	861.83	Universal Songs 	771	42
+22/06/2023	805.56	Jerry-Sound.com	519	82
+16/06/2023	1181.05	Jerry-Sound.com	210	100
+07/06/2023	915.97	Universal Songs 	555	78
+16/06/2023	840.67	Jerry-Sound.com	247	100
+13/06/2023	993.48	Universal Songs 	698	21
+29/06/2023	1102.00	Jerry-Sound.com	824	61
+01/06/2023	1043.39	Universal Songs 	284	100
+18/06/2023	975.57	Jerry-Sound.com	391	92
+16/06/2023	969.69	Jerry-Sound.com	234	100
+18/06/2023	973.76	Jerry-Sound.com	360	97
+04/06/2023	860.33	Universal Songs 	446	83
+21/06/2023	884.58	Jerry-Sound.com	467	91
+11/06/2023	692.45	Universal Songs 	637	67
+23/06/2023	884.85	Jerry-Sound.com	537	80
+04/06/2023	864.65	Universal Songs 	457	83
+01/07/2023	783.74	Jerry-Sound.com	922	61
+13/06/2023	771.13	Universal Songs 	704	48
+26/06/2023	961.10	Jerry-Sound.com	630	72
+10/06/2023	959.73	Universal Songs 	632	60
+22/06/2023	1112.10	Jerry-Sound.com	500	81
+03/06/2023	829.40	Universal Songs 	424	91
+25/06/2023	1031.46	Jerry-Sound.com	606	73
+03/06/2023	1065.79	Universal Songs 	432	91
+01/06/2023	708.98	Universal Songs 	327	98
+21/06/2023	897.11	Jerry-Sound.com	493	80
+03/06/2023	961.24	Universal Songs 	420	90
+23/06/2023	818.10	Jerry-Sound.com	538	84
+03/06/2023	905.12	Universal Songs 	431	85
+19/06/2023	585.06	Jerry-Sound.com	418	87
+02/06/2023	699.61	Universal Songs 	363	100
+25/06/2023	1168.02	Jerry-Sound.com	616	69
+03/06/2023	862.16	Universal Songs 	409	100
+16/06/2023	791.79	Jerry-Sound.com	246	100
+01/06/2023	846.43	Universal Songs 	340	94
+23/06/2023	1088.73	Jerry-Sound.com	526	76
+02/06/2023	911.62	Universal Songs 	393	100
+24/06/2023	843.75	Jerry-Sound.com	586	68
+12/06/2023	617.52	Universal Songs 	682	65
+28/06/2023	1005.29	Jerry-Sound.com	772	57
+13/06/2023	644.90	Universal Songs 	703	53
+23/06/2023	824.32	Jerry-Sound.com	528	82
+08/06/2023	722.26	Universal Songs 	577	80
+23/06/2023	986.57	Jerry-Sound.com	537	76
+16/06/2023	960.91	Jerry-Sound.com	230	100
+20/06/2023	906.87	Jerry-Sound.com	461	92
+01/06/2023	923.81	Universal Songs 	310	93
+26/06/2023	953.94	Jerry-Sound.com	641	68
+10/06/2023	905.15	Universal Songs 	626	63
+25/06/2023	630.93	Jerry-Sound.com	603	69
+03/06/2023	957.32	Universal Songs 	429	91
+23/06/2023	865.75	Jerry-Sound.com	540	75
+10/06/2023	729.13	Universal Songs 	631	68
+24/06/2023	966.00	Jerry-Sound.com	587	67
+05/06/2023	960.50	Universal Songs 	485	86
+21/06/2023	1002.31	Jerry-Sound.com	476	84
+03/06/2023	864.39	Universal Songs 	414	82
+22/06/2023	942.43	Jerry-Sound.com	513	78
+05/06/2023	873.22	Universal Songs 	484	82
+26/06/2023	844.44	Jerry-Sound.com	623	68
+15/06/2023	906.96	Universal Songs 	833	54
+30/06/2023	870.33	Jerry-Sound.com	849	26
+02/06/2023	1171.51	Universal Songs 	368	93
+20/06/2023	810.25	Jerry-Sound.com	460	91
+03/06/2023	683.55	Universal Songs 	411	100
+17/06/2023	848.18	Jerry-Sound.com	298	100
+16/06/2023	965.94	Jerry-Sound.com	213	99
+27/06/2023	808.34	Jerry-Sound.com	659	72
+07/06/2023	999.33	Universal Songs 	550	73
+16/06/2023	981.67	Jerry-Sound.com	260	95
+01/06/2023	726.33	Universal Songs 	334	100
+27/06/2023	840.89	Jerry-Sound.com	693	57
+07/06/2023	731.78	Universal Songs 	542	75
+22/06/2023	737.76	Jerry-Sound.com	521	82
+11/06/2023	800.35	Universal Songs 	637	63
+17/06/2023	1026.59	Jerry-Sound.com	337	100
+11/06/2023	1036.28	Universal Songs 	651	67
+26/06/2023	978.24	Jerry-Sound.com	635	72
+01/06/2023	813.79	Universal Songs 	294	100
+21/06/2023	963.60	Jerry-Sound.com	477	90
+08/06/2023	898.76	Universal Songs 	562	77
+28/06/2023	886.46	Jerry-Sound.com	755	37
+13/06/2023	869.00	Universal Songs 	707	42
+22/06/2023	880.49	Jerry-Sound.com	520	76
+14/06/2023	995.22	Universal Songs 	744	42
+19/06/2023	945.49	Jerry-Sound.com	407	88
+02/06/2023	1023.38	Universal Songs 	367	100
+01/07/2023	736.78	Jerry-Sound.com	919	58
+03/06/2023	802.45	Universal Songs 	435	88
+25/06/2023	831.61	Jerry-Sound.com	601	69
+05/06/2023	962.76	Universal Songs 	483	81
+17/06/2023	952.89	Jerry-Sound.com	328	100
+05/06/2023	978.84	Universal Songs 	488	81
+27/06/2023	1100.54	Jerry-Sound.com	669	73
+16/06/2023	907.23	Jerry-Sound.com	230	100
+27/06/2023	828.24	Jerry-Sound.com	666	74
+09/06/2023	856.52	Universal Songs 	593	69
+25/06/2023	1062.57	Jerry-Sound.com	591	73
+02/06/2023	992.11	Universal Songs 	369	100
+22/06/2023	693.58	Jerry-Sound.com	508	83
+04/06/2023	1033.10	Universal Songs 	465	82
+28/06/2023	793.70	Jerry-Sound.com	727	47
+12/06/2023	983.38	Universal Songs 	668	59
+22/06/2023	893.85	Jerry-Sound.com	525	80
+14/06/2023	862.90	Universal Songs 	746	23
+28/06/2023	838.71	Jerry-Sound.com	766	43
+10/06/2023	928.67	Universal Songs 	628	67
+25/06/2023	808.38	Jerry-Sound.com	595	75
+05/06/2023	935.80	Universal Songs 	489	89
+22/06/2023	794.92	Jerry-Sound.com	497	82
+03/06/2023	899.29	Universal Songs 	412	94
+21/06/2023	1057.07	Jerry-Sound.com	474	85
+14/06/2023	887.49	Universal Songs 	782	48
+21/06/2023	862.63	Jerry-Sound.com	472	86
+07/06/2023	1058.51	Universal Songs 	540	70
+28/06/2023	833.97	Jerry-Sound.com	741	59
+16/06/2023	830.69	Jerry-Sound.com	207	100
+25/06/2023	909.56	Jerry-Sound.com	613	65
+10/06/2023	1050.98	Universal Songs 	627	62
+19/06/2023	1010.28	Jerry-Sound.com	411	85
+03/06/2023	638.33	Universal Songs 	397	100
+19/06/2023	919.89	Jerry-Sound.com	421	85
+10/06/2023	1022.09	Universal Songs 	596	58
+20/06/2023	820.15	Jerry-Sound.com	438	86
+12/06/2023	894.16	Universal Songs 	690	66
+16/06/2023	858.91	Jerry-Sound.com	254	100
+08/06/2023	734.45	Universal Songs 	567	74
+26/06/2023	945.88	Jerry-Sound.com	627	70
+04/06/2023	1047.96	Universal Songs 	453	81
+20/06/2023	805.51	Jerry-Sound.com	435	94
+15/06/2023	700.25	Universal Songs 	877	54
+26/06/2023	789.03	Jerry-Sound.com	624	73
+15/06/2023	842.02	Universal Songs 	874	47
+19/06/2023	862.45	Jerry-Sound.com	411	85
+01/06/2023	969.80	Universal Songs 	325	100
+02/06/2023	817.00	Universal Songs 	379	100
+27/06/2023	826.09	Jerry-Sound.com	673	72
+03/06/2023	847.80	Universal Songs 	425	85
+20/06/2023	1013.53	Jerry-Sound.com	450	94
+12/06/2023	959.04	Universal Songs 	670	59
+21/06/2023	1002.32	Jerry-Sound.com	491	84
+05/06/2023	780.01	Universal Songs 	495	88
+24/06/2023	829.90	Jerry-Sound.com	590	65
+16/06/2023	800.15	Jerry-Sound.com	220	100
+22/06/2023	894.18	Jerry-Sound.com	497	76
+16/06/2023	1123.99	Universal Songs 	1028	57
+22/06/2023	918.81	Jerry-Sound.com	522	81
+10/06/2023	851.21	Universal Songs 	629	61
+27/06/2023	1077.56	Jerry-Sound.com	674	67
+06/06/2023	764.86	Universal Songs 	526	71
+26/06/2023	852.56	Jerry-Sound.com	650	69
+07/06/2023	821.40	Universal Songs 	547	77
+16/06/2023	898.89	Jerry-Sound.com	201	100
+04/06/2023	850.40	Universal Songs 	446	88
+21/06/2023	897.95	Jerry-Sound.com	487	78
+16/06/2023	817.16	Jerry-Sound.com	240	100
+21/06/2023	700.28	Jerry-Sound.com	491	79
+01/06/2023	758.43	Universal Songs 	334	100
+28/06/2023	827.63	Jerry-Sound.com	748	49
+10/06/2023	863.86	Universal Songs 	632	67
+14/06/2023	794.89	Universal Songs 	766	53
+20/06/2023	813.13	Jerry-Sound.com	455	94
+16/06/2023	833.49	Universal Songs 	957	38
+12/06/2023	1065.59	Universal Songs 	679	62
+22/06/2023	901.85	Jerry-Sound.com	505	84
+14/06/2023	883.61	Universal Songs 	819	50
+17/06/2023	1088.78	Jerry-Sound.com	261	100
+12/06/2023	802.36	Universal Songs 	683	61
+28/06/2023	762.97	Jerry-Sound.com	756	61
+10/06/2023	869.51	Universal Songs 	613	58
+24/06/2023	1077.51	Jerry-Sound.com	565	78
+01/06/2023	910.23	Universal Songs 	326	94
+19/06/2023	851.41	Jerry-Sound.com	427	90
+02/06/2023	966.14	Universal Songs 	365	97
+20/06/2023	1077.77	Jerry-Sound.com	429	88
+10/06/2023	962.52	Universal Songs 	599	60
+23/06/2023	736.37	Jerry-Sound.com	545	77
+08/06/2023	1207.47	Universal Songs 	574	72
+19/06/2023	1060.76	Jerry-Sound.com	404	86
+12/06/2023	1059.78	Universal Songs 	670	69
+23/06/2023	940.98	Jerry-Sound.com	541	82
+02/06/2023	984.54	Universal Songs 	377	94
+21/06/2023	1025.41	Jerry-Sound.com	473	91
+12/06/2023	863.03	Universal Songs 	692	64
+21/06/2023	987.60	Jerry-Sound.com	480	90
+09/06/2023	778.34	Universal Songs 	579	71
+11/06/2023	870.23	Universal Songs 	658	66
+21/06/2023	909.84	Jerry-Sound.com	480	94
+11/06/2023	929.83	Universal Songs 	646	65
+26/06/2023	828.88	Jerry-Sound.com	647	67
+04/06/2023	1009.30	Universal Songs 	471	88
+26/06/2023	956.92	Jerry-Sound.com	630	70
+10/06/2023	888.34	Universal Songs 	617	69
+22/06/2023	1080.01	Jerry-Sound.com	505	81
+11/06/2023	1075.55	Universal Songs 	640	68
+26/06/2023	849.05	Jerry-Sound.com	642	67
+15/06/2023	956.65	Universal Songs 	908	57
+27/06/2023	834.92	Jerry-Sound.com	676	66
+15/06/2023	879.06	Universal Songs 	911	38
+25/06/2023	928.27	Jerry-Sound.com	600	75
+05/06/2023	1225.53	Universal Songs 	493	81
+28/06/2023	869.30	Jerry-Sound.com	778	49
+02/06/2023	1087.92	Universal Songs 	391	100
+15/06/2023	854.58	Universal Songs 	830	50
+26/06/2023	824.75	Jerry-Sound.com	616	75
+01/06/2023	751.18	Universal Songs 	327	100
+23/06/2023	870.81	Jerry-Sound.com	541	78
+12/06/2023	944.13	Universal Songs 	689	67
+17/06/2023	960.48	Jerry-Sound.com	312	97
+15/06/2023	970.79	Universal Songs 	858	49
+22/06/2023	881.07	Jerry-Sound.com	496	80
+13/06/2023	920.46	Universal Songs 	705	52
+26/06/2023	811.71	Jerry-Sound.com	655	73
+03/06/2023	967.25	Universal Songs 	407	100
+26/06/2023	1026.11	Jerry-Sound.com	625	72
+13/06/2023	710.11	Universal Songs 	697	51
+23/06/2023	967.39	Jerry-Sound.com	556	81
+11/06/2023	939.42	Universal Songs 	651	59
+13/06/2023	863.54	Universal Songs 	732	58
+29/06/2023	876.92	Jerry-Sound.com	810	44
+11/06/2023	966.83	Universal Songs 	651	66
+26/06/2023	823.62	Jerry-Sound.com	639	75
+05/06/2023	857.03	Universal Songs 	501	86
+21/06/2023	971.50	Jerry-Sound.com	475	85
+15/06/2023	921.21	Universal Songs 	925	37
+20/06/2023	750.84	Jerry-Sound.com	443	93
+13/06/2023	953.87	Universal Songs 	718	36
+03/06/2023	866.77	Universal Songs 	415	81
+26/06/2023	653.99	Jerry-Sound.com	634	65
+11/06/2023	864.46	Universal Songs 	663	65
+23/06/2023	904.76	Jerry-Sound.com	538	80
+02/06/2023	878.79	Universal Songs 	363	100
+19/06/2023	880.90	Jerry-Sound.com	407	93
+10/06/2023	609.02	Universal Songs 	629	67
+21/06/2023	827.60	Jerry-Sound.com	488	76
+11/06/2023	799.40	Universal Songs 	664	64
+30/06/2023	1065.45	Jerry-Sound.com	899	64
+01/06/2023	775.63	Universal Songs 	299	97
+19/06/2023	920.97	Jerry-Sound.com	410	89
+06/06/2023	868.69	Universal Songs 	516	71
+13/06/2023	999.88	Universal Songs 	703	47
+29/06/2023	855.85	Jerry-Sound.com	843	47
+09/06/2023	701.20	Universal Songs 	583	77
